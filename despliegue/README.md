@@ -4,11 +4,11 @@
 
 - Haciendo uso de los enpoints que trabajamos en los primeros dias de clase, los ocupamos para poder migrarlos a una página de frontend.
 
-![IndexFrontEnd](./imagenes/despliegue/index.png)
+![IndexFrontEnd](./../imagenes/despliegue/index.png)
 
 - En base a los parametros que le mandamos, ahora nos regresa un texto y una imagen.
 
-![ResultadoFrontEnd](./imagenes/despliegue/resultado.png)
+![ResultadoFrontEnd](./../imagenes/despliegue/resultado.png)
 
 ## TRACK-TRAINING.
 
